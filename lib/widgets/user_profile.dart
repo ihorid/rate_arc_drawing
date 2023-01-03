@@ -19,8 +19,8 @@ class _ExempleState extends State<Exemple> {
         child: RadialPersentWidget(
           percent: 0.72,
           fillColor: Colors.black,
-          lineColor: Colors.red,
-          freeColor: Colors.orange,
+          lineColor: Colors.green,
+          freeColor: Colors.red,
           lineWidth: 10,
           child: Text(
             textAlign: TextAlign.center,
